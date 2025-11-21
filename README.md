@@ -1,15 +1,111 @@
-<h1 align="center">Hi 👋, I'm Olubisi Ayantoye</h1>
-<h3 align="center">A passionate frontend and backend developer</h3>
+# Hi, I'm Olubisi Ayantoye 👋  
+**Software Developer | AI-Driven Application Engineer | Full-Stack Web Developer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olubisiayantoye&label=Profile%20views&color=0e75b6&style=flat" alt="olubisiayantoye" /> </p>
+I'm a self-taught and academically trained software developer passionate about building AI-enabled systems, scalable SaaS platforms, and data-driven applications. I specialize in backend engineering, modern JavaScript tooling, and PHP frameworks, with a growing focus on AI integrations and research-grade dashboards.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olubisiayantoye" alt="olubisiayantoye" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Free-rhyde**
+## 🚀 About Me
+- 🔭 I’m currently building a **research-grade AI Weather & Productivity Dashboard** using Vite, Vanilla JS Modules, ActivityWatch, and Chart.js.  
+- 🌱 I’m upgrading a complete **Uber-like ride-hailing platform**, developing it step-by-step into a production-ready system.  
+- 📰 I’m also the **founder and lead developer of MagniVoice**, a digital media platform built with CodeIgniter 4.  
+- 📚 I’m pursuing a **BS in Software Development (BYU-I)** and a **BS in Computer Science (University of the People)**.  
+- 🤝 I’m open to collaborations in **AI-integrated apps, SaaS products, scalable web systems, and open-source developer tools**.
 
-- 🌱 I’m currently learning **ServiceNow, Cybersecurity**
+---
 
-- 💬 Ask me about **PHP, PWA, Codeigniter,HTMX, Ardino**
+## 🛠️ Skills & Technologies
+
+### **Languages**
+JavaScript • Python • PHP • C# • SQL • Flutter
+
+### **Backend & API Development**
+Node.js • Express.js • Laravel • CodeIgniter (3 & 4) • REST APIs • GitHub OAuth • MongoDB • MySQL
+
+### **Frontend & UI**
+vue.js • Alpine.js • Chart.js • Vite • Vanilla JavaScript Modules
+
+### **AI & Integrations**
+Hugging Face Models • Perspective API • ActivityWatch • OpenWeather API  
+AI Detection • Content Moderation • Behavioral Analytics
+
+### **DevOps & Deployment**
+Linux Server Management • Nginx • Docker • CI/CD • Cloud Hosting
+
+---
+
+## 📂 Featured Projects
+
+### **🔬 AI Weather & Productivity Tracker Dashboard**
+A research-focused dashboard that correlates weather data with productivity metrics.  
+- Built with Vite + Vanilla JS Modules  
+- Charts generated using Chart.js  
+- Activity tracking powered by ActivityWatch  
+- Dark mode, CSV export, modular architecture  
+- Context-aware AI insights based on environmental conditions  
+
+🔗 *Repository Coming Soon*
+
+---
+
+### **🚗 Ride-Hailing Platform (Uber-like App)**
+A full ecosystem for ride-hailing services: user app, driver app, admin panel, and backend API.  
+- Real-time trip and driver tracking  
+- Route matching, fare calculation  
+- MongoDB + Node.js backend  
+- Step-by-step scalable architecture  
+
+🔗 *Private Build — Public Demo Coming Soon*
+
+---
+
+### **💬 SaaS WhatsApp Automation Platform**
+A cloud-based platform with bulk messaging, chatbot flow builder, CRM, agent panel, and full REST API.  
+- Built with PHP + HTMX + Alpine.js  
+- Multi-tenant SaaS  
+- Full admin panel + user panel  
+- Deployable in stages  
+
+🔗 *In Development*
+
+---
+
+### **📰 MagniVoice News Platform**
+A modern digital publishing system built with CodeIgniter 4.  
+- Writer reward module  
+- AI content validation (plagiarism, toxicity, AI detection)  
+- Automated moderation workflow  
+- SEO-optimized and performance-tuned
+
+🔗 https://magnivoice.com *(if you want this link included)*
+
+---
+
+## 📊 GitHub Statistics
+
+![Olubisi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+## 📫 How to Reach Me
+- Email: **your-email@example.com**  
+- LinkedIn: **https://linkedin.com/in/yourusername**  
+- Portfolio (optional): **https://yourwebsite.com**
+
+---
+
+## 🎯 Current Goals
+- Launch two production-ready SaaS products in 2025.  
+- Contribute to open-source developer tools.  
+- Advance AI-assisted productivity research.  
+- Build stronger professional presence and collaborations.
+
+---
+
+⭐ *If you like my work, feel free to star some repos or connect with me on LinkedIn!*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
