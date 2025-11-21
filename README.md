@@ -90,9 +90,9 @@ A modern digital publishing system built with CodeIgniter 4.
 ---
 
 ## 📫 How to Reach Me
-- Email: **your-email@example.com**  
-- LinkedIn: **https://linkedin.com/in/yourusername**  
-- Portfolio (optional): **https://yourwebsite.com**
+- Email: **olubisiayantoye@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/olubisi-ayantoye-kingson/**  
+- Portfolio : **https://winnersworldtechnologies.com.ng**
 
 ---
 
